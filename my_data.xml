@@ -1,0 +1,21 @@
+<person>
+    <name>Alice Doe</name>
+    <age>30</age>
+    <programmer>true</programmer>
+    <car xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <address>
+        <street>100 Larkin St.</street>
+        <city>San Francisco</city>
+        <zip>94102</zip>
+    </address>
+    <phone>
+        <phoneEntry>
+            <type>mobile</type>
+            <number>415-555-7890</number>
+        </phoneEntry>
+        <phoneEntry>
+            <type>work</type>
+            <number>415-555-1234</number>
+        </phoneEntry>
+    </phone>
+</person>
